@@ -32,7 +32,7 @@
 
 > 成果：可用作表情包网站、设计素材网站、壁纸网站等
 
-![img.png](zcj-picture-backend-main/static/img4_.png)
+![img.png](zcj-picture-backend-main/static/img_4.png)
 
 2）第二阶段，对项目 C 端功能进行大量扩展。用户可开通私有空间，并对空间图片进行多维检索、扫码分享、批量管理、快速编辑、用量分析。
 
